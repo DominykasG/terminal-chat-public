@@ -1,4 +1,4 @@
-# terminal-chat
+# terminal-chat-public
 ### Chat application with terminal-like look and functionality that lets you chat in user created chatrooms
 ## startup
 #### Frontend
